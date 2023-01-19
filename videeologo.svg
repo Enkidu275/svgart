@@ -1,0 +1,13 @@
+<svg viewBox="0 0 274 402" style="position:absolute;left:15vw;top:0vw;width:70vw;">
+<mask id="innerpheta">
+<path d="M1 0L274 0L274 402L1 402Z" fill="white"/>
+<path d="M138 378C114 377 89 355 81 255C78 217 81 184 81 148C83 52 110 20 137 19C164 21 189 43 194 148C195 185 196 221 192 258C188 358 163 377 138 378Z" fill="black"/>
+<g>
+<path d="M214 179C220 186 227 194 228 203C228 210 222 221 214 227C207 232 201 235 194 246C172 278 144 281 128 261C100 223 100 164 128 137C144 125 171 128 196 156C200 164 208 171 214 179Z" fill="black"/>
+<path d="M144 246L144 161C143 155 147 148 155 153L207 192C217 198 215 207 207 213L159 250C149 257 144 254 144 246Z" fill="white"/>
+<animateMotion dur="3s" repeatCount="indefinite" path="m0 0l0 85l0 -175z"/>
+<animateTransform dur="3s" attributeName="transform" attributeType="XML" type="rotate" from="0 137 201" to="360 137 201" repeatCount="indefinite"/>
+</g>
+</mask>
+<path d="M137 0C211 0 273 92 273 201C273 309 211 402 137 402C63 402 0 309 0 201C0 92 63 0 137 0Z" fill="#CCF381FF" mask="url(#innerpheta)"/>
+</svg>
